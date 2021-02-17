@@ -3,4 +3,4 @@ XO using c++ (very basic)
 
 This is just a test to see how GitHub works.
 
-XO using simple c++.
+Fully functional XO that can be played using CLI.
